@@ -65,6 +65,7 @@ a {
 .container img{
     position: absolute;
     width: 1366px;
+    max-width: 100%;
     height: 722px;
     top: 47px;
     left: -1px;
@@ -103,6 +104,7 @@ a {
 .ripped {
     position: absolute;
     width: 1366px;
+    max-width: 100%;
     height: 55px;
     top: 1182px;
     left: 0;
@@ -391,6 +393,7 @@ h1 {
     position: absolute;
     left: 0;
     width: 1366px;
+    max-width: 100%;
     height: 481.59px;
     top: 2827px;
  }
@@ -455,6 +458,7 @@ h3 {
 .rectangle {
     position: absolute;
     width: 1366px;
+    max-width: 100%;
     height: 324.34px;
     top: 3275px;
     left: 0;
