@@ -10,7 +10,6 @@ body {
 .navbar {
     position: absolute;
     z-index: 1;
-    width: 1367px;
     max-width: 100%;
     height: auto;
     left: 50px;
