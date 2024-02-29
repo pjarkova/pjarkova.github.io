@@ -4,9 +4,6 @@
         text-align: center; 
     }
 }
-body {
-    width: 1367px;
-}
 .navbar {
     position: absolute;
     z-index: 1;
